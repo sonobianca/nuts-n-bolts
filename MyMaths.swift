@@ -1,6 +1,6 @@
 //
 //  MyMaths.swift
-//  Fly Solar
+//  nuts-n-bolts
 //
 //  Created by Blaise Bernier on 2016-12-21.
 //  Copyright © 2016 Badger Studios. All rights reserved.

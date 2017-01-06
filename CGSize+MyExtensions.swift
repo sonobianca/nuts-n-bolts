@@ -1,6 +1,6 @@
 //
 //  CGSize+MyExtensions.swift
-//  Fly Solar
+//  nuts-n-bolts
 //
 //  Created by Blaise Bernier on 2016-12-14.
 //  Copyright © 2016 Badger Studios. All rights reserved.
