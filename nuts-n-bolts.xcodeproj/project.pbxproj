@@ -6,10 +6,21 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		6C6C813F1E2037CC007C2B77 /* CGPoint+MyExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGPoint+MyExtensions.swift"; sourceTree = "<group>"; };
+		6C6C81401E2037CC007C2B77 /* CGSize+MyExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGSize+MyExtensions.swift"; sourceTree = "<group>"; };
+		6C6C81411E2037CC007C2B77 /* CGVector+MyExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGVector+MyExtensions.swift"; sourceTree = "<group>"; };
+		6C6C81421E2037CC007C2B77 /* MyMaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMaths.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		6C6C81381E2037BA007C2B77 = {
 			isa = PBXGroup;
 			children = (
+				6C6C813F1E2037CC007C2B77 /* CGPoint+MyExtensions.swift */,
+				6C6C81401E2037CC007C2B77 /* CGSize+MyExtensions.swift */,
+				6C6C81411E2037CC007C2B77 /* CGVector+MyExtensions.swift */,
+				6C6C81421E2037CC007C2B77 /* MyMaths.swift */,
 			);
 			sourceTree = "<group>";
 		};
