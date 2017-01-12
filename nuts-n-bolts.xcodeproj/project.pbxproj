@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		6C30C7E31E276D0D00A22363 /* InteractiveCameraNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteractiveCameraNode.swift; sourceTree = "<group>"; };
+		6C30C7E41E276D0D00A22363 /* StarfieldNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarfieldNode.swift; sourceTree = "<group>"; };
 		6C6C813F1E2037CC007C2B77 /* CGPoint+MyExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGPoint+MyExtensions.swift"; sourceTree = "<group>"; };
 		6C6C81401E2037CC007C2B77 /* CGSize+MyExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGSize+MyExtensions.swift"; sourceTree = "<group>"; };
 		6C6C81411E2037CC007C2B77 /* CGVector+MyExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGVector+MyExtensions.swift"; sourceTree = "<group>"; };
@@ -21,6 +23,8 @@
 				6C6C81401E2037CC007C2B77 /* CGSize+MyExtensions.swift */,
 				6C6C81411E2037CC007C2B77 /* CGVector+MyExtensions.swift */,
 				6C6C81421E2037CC007C2B77 /* MyMaths.swift */,
+				6C30C7E31E276D0D00A22363 /* InteractiveCameraNode.swift */,
+				6C30C7E41E276D0D00A22363 /* StarfieldNode.swift */,
 			);
 			sourceTree = "<group>";
 		};
